@@ -1,3 +1,3 @@
 # homework
 
-Домашнее задание курса Fron-end GoIt
+Домашнее задание курса Front-end GoIt
